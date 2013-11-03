@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tile12</key>
+	<dict>
+		<key>story</key>
+		<string>12 Your final faceoff with the fearsome pirate boss&quot;;
+tile12.backgroundImage = [UIImage imageNamed:@&quot;PirateBoss.jpg</string>
+		<key>actionText</key>
+		<string>Blunted Sword</string>
+		<key>BGImage</key>
+		<string>PirateWeapons.jpeg</string>
+		<key>HealthIndicator</key>
+		<integer>7</integer>
+	</dict>
+	<key>Tile11</key>
+	<dict>
+		<key>story</key>
+		<string>1 In the deep of the sea many things live and many things can be found.  Will the fortune bring help or ruin?</string>
+		<key>actionText</key>
+		<string>Swim deeper</string>
+		<key>BGImage</key>
+		<string>PirateTreasurer2.jpeg</string>
+		<key>HealthIndicator</key>
+		<integer>-7</integer>
+	</dict>
+	<key>Tile10</key>
+	<dict>
+		<key>story</key>
+		<string>10 A group of pirates attempts to board your ship</string>
+		<key>actionText</key>
+		<string>Fight!</string>
+		<key>BGImage</key>
+		<string>PirateTreasure.jpeg</string>
+		<key>HealthIndicator</key>
+		<integer>-15</integer>
+	</dict>
+	<key>Tile9</key>
+	<dict>
+		<key>story</key>
+		<string>9 You stumble upon a hidden cave of pirate treasurer</string>
+		<key>actionText</key>
+		<string>Take Treasurer</string>
+		<key>BGImage</key>
+		<string>PirateStart.jpg</string>
+		<key>HealthIndicator</key>
+		<integer>20</integer>
+	</dict>
+	<key>Tile8</key>
+	<dict>
+		<key>story</key>
+		<string>8 The legend of the deep, the mighty kraken appears</string>
+		<key>actionText</key>
+		<string>Fight those scum!</string>
+		<key>BGImage</key>
+		<string>PirateShipBattle.jpeg</string>
+		<key>HealthIndicator</key>
+		<integer>-15</integer>
+	</dict>
+	<key>Tile7</key>
+	<dict>
+		<key>story</key>
+		<string>7 You sight a pirate battle off the coast</string>
+		<key>actionText</key>
+		<string>Repel the invaders</string>
+		<key>BGImage</key>
+		<string>PiratePlank.jpg</string>
+		<key>HealthIndicator</key>
+		<integer>15</integer>
+	</dict>
+	<key>Tile6</key>
+	<dict>
+		<key>story</key>
+		<string>6 You have been captured by pirates and are ordered to walk the plank</string>
+		<key>actionText</key>
+		<string>Abandon Ship</string>
+		<key>BGImage</key>
+		<string>PirateParrot.jpg</string>
+		<key>HealthIndicator</key>
+		<integer>-46</integer>
+	</dict>
+	<key>Tile5</key>
+	<dict>
+		<key>story</key>
+		<string>5 You have stumbled upon a cache of pirate weapons.  Would you like to upgrade to a pistol?</string>
+		<key>actionText</key>
+		<string>Take pistol</string>
+		<key>BGImage</key>
+		<string>PirateOctopusAttack.jpg</string>
+		<key>HealthIndicator</key>
+		<integer>12</integer>
+	</dict>
+	<key>Tile4</key>
+	<dict>
+		<key>story</key>
+		<string>4 You have found a parrot can be used in your armor slot!  Parrots are a great defender and are fiercly loyal to their captain.</string>
+		<key>actionText</key>
+		<string>Adopt Parrot</string>
+		<key>BGImage</key>
+		<string>PirateFriendlyDock.jpg</string>
+		<key>HealthIndicator</key>
+		<integer>20</integer>
+	</dict>
+	<key>Tile3</key>
+	<dict>
+		<key>story</key>
+		<string>3 A mysterious dock appears on the horizon.  Should we stop and ask for directions?</string>
+		<key>actionText</key>
+		<string>Stop at the Dock</string>
+		<key>BGImage</key>
+		<string>PirateBoss.jpeg</string>
+		<key>HealthIndicator</key>
+		<integer>17</integer>
+	</dict>
+	<key>Tile2</key>
+	<dict>
+		<key>story</key>
+		<string>2 You have come across an armory.  Would you like to upgrade your armor to steel armor?</string>
+		<key>actionText</key>
+		<string>Take steel armor</string>
+		<key>BGImage</key>
+		<string>PirateBlacksmith.jpeg</string>
+		<key>HealthIndicator</key>
+		<integer>7</integer>
+	</dict>
+	<key>Tile1</key>
+	<dict>
+		<key>story</key>
+		<string>1 Captain, we need a fearless leader such as you to undertake a voyage.  You must stop the evil pirate Boss before he steals any more plunder.  Would you like a blunted sword to get started?</string>
+		<key>actionText</key>
+		<string>Show no fear!</string>
+		<key>BGImage</key>
+		<string>PirateAttack.jpg</string>
+		<key>HealthIndicator</key>
+		<integer>-22</integer>
+	</dict>
+</dict>
+</plist>
